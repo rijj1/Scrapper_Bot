@@ -20,7 +20,7 @@ This project automates scraping blog content from a Downloadly-based site and up
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/rijj1/downloadly-scrapper-bot.git
+   git clone https://github.com/rijj1/Scrapper_Bot.git
    cd downloadly-scrapper-bot
    ```
 
