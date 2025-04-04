@@ -1,4 +1,4 @@
-**# 🕷️ Downloadly Scrapper Bot + Blog Uploader
+# 🕷️ Downloadly Scrapper Bot + Blog Uploader
 
 This project automates scraping blog content from a Downloadly-based site and uploading it to a custom blog website via its admin panel.
 
